@@ -82,3 +82,8 @@
 - Utilizar la biblioteca ```Auth0 java-jwt``` para validar los tokens recibidos en la <b>API</b>;
 - Realizar el proceso de autenticación de la solicitud, utilizando la clase ```SecurityContextHolder``` de Spring;
 - Liberar y restringir solicitudes, según la <b>URL</b> y el verbo del protocolo <b>HTTP</b>.
+
+<br>
+
+<img width="400" height="225" alt="Oracle-Next-Education--e1678304093153" src="https://github.com/user-attachments/assets/fa12d575-cfdd-491f-8fa0-fde47f58b8f4" />
+
